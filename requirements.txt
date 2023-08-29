@@ -1,0 +1,4 @@
+fdk
+pandas
+numpy
+oci>=2.39.0
